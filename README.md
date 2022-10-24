@@ -1,1 +1,0 @@
-i opened VS Code through the terminal :)
